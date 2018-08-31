@@ -1,0 +1,14 @@
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\bin\Release\netcoreapp2.1\JMeDQgddW9.Service.deps.json
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\bin\Release\netcoreapp2.1\JMeDQgddW9.Service.dll
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\bin\Release\netcoreapp2.1\JMeDQgddW9.Service.pdb
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\bin\Release\netcoreapp2.1\JMeDQgddW9.Core.dll
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\bin\Release\netcoreapp2.1\JMeDQgddW9.Data.dll
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\bin\Release\netcoreapp2.1\JMeDQgddW9.Core.pdb
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\bin\Release\netcoreapp2.1\JMeDQgddW9.Data.pdb
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\obj\Release\netcoreapp2.1\JMeDQgddW9.Service.csprojAssemblyReference.cache
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\obj\Release\netcoreapp2.1\JMeDQgddW9.Service.csproj.CoreCompileInputs.cache
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\obj\Release\netcoreapp2.1\JMeDQgddW9.Service.AssemblyInfoInputs.cache
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\obj\Release\netcoreapp2.1\JMeDQgddW9.Service.AssemblyInfo.cs
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\obj\Release\netcoreapp2.1\JMeDQgddW9.Service.csproj.CopyComplete
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\obj\Release\netcoreapp2.1\JMeDQgddW9.Service.dll
+D:\Git\JMeDQgddW9\JMeDQgddW9.Service\obj\Release\netcoreapp2.1\JMeDQgddW9.Service.pdb

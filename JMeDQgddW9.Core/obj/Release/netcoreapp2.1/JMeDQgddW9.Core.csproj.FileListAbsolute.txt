@@ -1,0 +1,9 @@
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\bin\Release\netcoreapp2.1\JMeDQgddW9.Core.deps.json
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\bin\Release\netcoreapp2.1\JMeDQgddW9.Core.dll
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\bin\Release\netcoreapp2.1\JMeDQgddW9.Core.pdb
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\obj\Release\netcoreapp2.1\JMeDQgddW9.Core.csprojAssemblyReference.cache
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\obj\Release\netcoreapp2.1\JMeDQgddW9.Core.csproj.CoreCompileInputs.cache
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\obj\Release\netcoreapp2.1\JMeDQgddW9.Core.AssemblyInfoInputs.cache
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\obj\Release\netcoreapp2.1\JMeDQgddW9.Core.AssemblyInfo.cs
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\obj\Release\netcoreapp2.1\JMeDQgddW9.Core.dll
+D:\Git\JMeDQgddW9\JMeDQgddW9.Core\obj\Release\netcoreapp2.1\JMeDQgddW9.Core.pdb

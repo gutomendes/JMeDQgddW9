@@ -1,0 +1,157 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Postman",
+		"_postman_id": "0cb0da94-0d06-406a-d11a-60fa863a47f7",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create",
+			"request": {
+				"url": "https://localhost:44371/api/User/Create",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Authorization",
+						"value": "443078ff-d368-4e13-9df5-a82ee17a01de",
+						"description": ""
+					},
+					{
+						"key": "Login",
+						"value": "JMeDQgddW9",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\tName:\"Name\",\r\n\tEmail:\"email\",\r\n\tLogin:\"login\",\r\n\tPhone:\"phone\",\r\n    Password: \"pass\"\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GetAll",
+			"request": {
+				"url": "https://localhost:44371/api/User/GetAll",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "443078ff-d368-4e13-9df5-a82ee17a01de",
+						"description": ""
+					},
+					{
+						"key": "Login",
+						"value": "JMeDQgddW9",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get",
+			"request": {
+				"url": "https://localhost:44371/api/User/Get/1",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "443078ff-d368-4e13-9df5-a82ee17a01de",
+						"description": ""
+					},
+					{
+						"key": "Login",
+						"value": "JMeDQgddW9",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Update",
+			"request": {
+				"url": "https://localhost:44371/api/User/Put/1",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "Authorization",
+						"value": "d4ad1c25-17f1-42d6-af08-f7eba66dabb6",
+						"description": ""
+					},
+					{
+						"key": "Login",
+						"value": "JMeDQgddW9",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"JMeDQgddW9\",\n    \"email\": \"jmedqgddw9@jmalucelli.com.br\",\n    \"phone\": \"+5541999887766\",\n    \"login\": \"JMeDQgddW9\"\n}"
+				},
+				"description": null
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"url": "https://localhost:44371/api/User/Delete/3",
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "443078ff-d368-4e13-9df5-a82ee17a01de",
+						"description": ""
+					},
+					{
+						"key": "Login",
+						"value": "JMeDQgddW9",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"url": "https://localhost:44371/api/user/Login",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Login\":\"JMeDQgddW9\",\n\t\"Password\":\"JMalucelli\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
